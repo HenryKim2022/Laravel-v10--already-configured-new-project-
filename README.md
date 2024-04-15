@@ -21,6 +21,14 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## About This Project
+
+This base laravel project base is already configured/ modded tobe able used in webhosting. public_html as root. What im doing is:
+
+- Moving 'public' folder content to its root.
+- Modify index.php in root '/../blabla' to '/blabla'
+- Modify .htaccess file
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
