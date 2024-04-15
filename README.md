@@ -23,10 +23,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## About This Project
 
-This base laravel project base is already configured/ modded tobe able used in webhosting. public_html as root. What im doing is:
+This base laravel project base is already configured/ modded tobe able used in webhosting. What im doing is:
 
 - Moving 'public' folder content to its root.
-- Modify index.php in root '/../blabla' to '/blabla'
+- Modify index.php part of path into root path '/../blabla' to '/blabla'
 - Modify .htaccess file
 
 ## Learning Laravel
